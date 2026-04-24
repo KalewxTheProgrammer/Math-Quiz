@@ -6,7 +6,7 @@ INSTRUCTIONS IN HOW TO USE THIS
 
 -- HOW TO USE IT --
 1. Once you have downloaded it, I recommed putting it inside a folder
-2. Once you have put the downloaded code into a folder, go inside the folder you put the code inside of
+2. Once you have put the downloaded code into a folder, go inside the folder you put the code inside of it
 3. Right click the address on the top of File Explorer and click copy address
 4. Go into Terminal and type in cd "(paste the address you just copied from File Explorer)"
 5. Hit Enter
